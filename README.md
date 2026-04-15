@@ -139,7 +139,7 @@ Found a bug or have a feature request? Please feel free to open an issue or subm
 Created by **WangChuanSef**
 
 - Bilibili: [http://space.bilibili.com/1642823606](http://space.bilibili.com/1642823606)
-- GitHub: [https://github.com/WangChuanSef](https://github.com/WangChuanSef)
+- GitHub: [https://github.com/WangChuanSef](https://github.com/WangChuan5ef)
 
 ### License
 
