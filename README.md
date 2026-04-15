@@ -282,7 +282,7 @@ cocos-ui-visualizer/
 由 **WangChuanSef** 创建
 
 - Bilibili: [http://space.bilibili.com/1642823606](http://space.bilibili.com/1642823606)
-- GitHub: [https://github.com/WangChuanSef](https://github.com/WangChuanSef)
+- GitHub: [https://github.com/WangChuanSef](https://github.com/WangChuan5ef)
 
 ### 许可证
 
