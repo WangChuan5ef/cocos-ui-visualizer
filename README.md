@@ -44,7 +44,7 @@ This will automatically:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/WangChuanSef/cocos-ui-visualizer.git
+git clone https://github.com/WangChuan5ef/cocos-ui-visualizer.git
 cd cocos-ui-visualizer
 ```
 
@@ -136,10 +136,10 @@ Found a bug or have a feature request? Please feel free to open an issue or subm
 
 ### Author
 
-Created by **WangChuanSef**
+Created by **WangChuan5ef**
 
 - Bilibili: [http://space.bilibili.com/1642823606](http://space.bilibili.com/1642823606)
-- GitHub: [https://github.com/WangChuanSef](https://github.com/WangChuan5ef)
+- GitHub: [https://github.com/WangChuan5ef](https://github.com/WangChuan5ef)
 
 ### License
 
@@ -187,7 +187,7 @@ python install.py
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/WangChuanSef/cocos-ui-visualizer.git
+git clone https://github.com/WangChuan5ef/cocos-ui-visualizer.git
 cd cocos-ui-visualizer
 ```
 
@@ -279,10 +279,10 @@ cocos-ui-visualizer/
 
 ### 作者信息
 
-由 **WangChuanSef** 创建
+由 **WangChuan5ef** 创建
 
 - Bilibili: [http://space.bilibili.com/1642823606](http://space.bilibili.com/1642823606)
-- GitHub: [https://github.com/WangChuanSef](https://github.com/WangChuan5ef)
+- GitHub: [https://github.com/WangChuan5ef](https://github.com/WangChuan5ef)
 
 ### 许可证
 
